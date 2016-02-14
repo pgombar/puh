@@ -1,0 +1,1 @@
+We are implementing this spellchecker thing. We need a spellchecker to help people properly spell words like dog and cool and such. As in: hey dog, this is cool.

@@ -1,0 +1,4 @@
+bok
+ja
+sam
+string
